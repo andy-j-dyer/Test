@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userInfoList>
+    <userInfo>
+        <name>Alex</name>
+        <firstName>Alex</firstName>
+        <lastName>Author</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>12</defaultUserClassId>
+        <defaultUserClass>Author</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Amber</name>
+        <firstName>Amber</firstName>
+        <lastName>Author</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>12</defaultUserClassId>
+        <defaultUserClass>Author</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Amy</name>
+        <firstName>Amy</firstName>
+        <lastName>Author</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>12</defaultUserClassId>
+        <defaultUserClass>Author</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Anna</name>
+        <firstName>Anna</firstName>
+        <lastName>Author</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>12</defaultUserClassId>
+        <defaultUserClass>Author</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Arthur</name>
+        <firstName>Arthur</firstName>
+        <lastName>Author</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>12</defaultUserClassId>
+        <defaultUserClass>Author</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Caleb</name>
+        <firstName>Caleb</firstName>
+        <lastName>Co-Ordinator</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>17</defaultUserClassId>
+        <defaultUserClass>Content Coordinator</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Carl</name>
+        <firstName>Carl</firstName>
+        <lastName>IP Coordinator</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>28</defaultUserClassId>
+        <defaultUserClass>IP Coordinator</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Cheif</name>
+        <firstName>Chief</firstName>
+        <lastName>Cheif Editor</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>15</defaultUserClassId>
+        <defaultUserClass>Chief Editor</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Connie</name>
+        <firstName>Connie</firstName>
+        <lastName>Copy Editor</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>19</defaultUserClassId>
+        <defaultUserClass>Copy Editor</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Dakota</name>
+        <firstName>Dakota</firstName>
+        <lastName>Director</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>21</defaultUserClassId>
+        <defaultUserClass>Director</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Darryl</name>
+        <firstName>Darryl</firstName>
+        <lastName>Designer</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>20</defaultUserClassId>
+        <defaultUserClass>Designer</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Diane</name>
+        <firstName>Diane</firstName>
+        <lastName>Designer</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>20</defaultUserClassId>
+        <defaultUserClass>Designer</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Doug</name>
+        <firstName>Doug</firstName>
+        <lastName>Director</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>21</defaultUserClassId>
+        <defaultUserClass>Director</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Eggsy</name>
+        <firstName>Eggsy</firstName>
+        <lastName>External Author</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>23</defaultUserClassId>
+        <defaultUserClass>External Author</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Emma</name>
+        <firstName>Emma</firstName>
+        <lastName>External Reviewer</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>24</defaultUserClassId>
+        <defaultUserClass>External Reviewer</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Erik</name>
+        <firstName>Erik</firstName>
+        <lastName>Editor</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>22</defaultUserClassId>
+        <defaultUserClass>Editor</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Evie</name>
+        <firstName>Evie</firstName>
+        <lastName>Editor</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>22</defaultUserClassId>
+        <defaultUserClass>Editor</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Fae</name>
+        <firstName>Fae</firstName>
+        <lastName>Final Editor</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>25</defaultUserClassId>
+        <defaultUserClass>Final Editor</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Finn</name>
+        <firstName>Finn</firstName>
+        <lastName>Final Editor</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>25</defaultUserClassId>
+        <defaultUserClass>Final Editor</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Paige</name>
+        <firstName>Paige</firstName>
+        <lastName>Project Lead</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>36</defaultUserClassId>
+        <defaultUserClass>Project Lead</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Polly</name>
+        <firstName>Polly</firstName>
+        <lastName>Project Lead</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>36</defaultUserClassId>
+        <defaultUserClass>Project Lead</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Quark_Service_User</name>
+        <firstName>Quark Service</firstName>
+        <lastName>User</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>26</defaultUserClassId>
+        <defaultUserClass>Finished_Goods_Viewer</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Rachel</name>
+        <firstName>Rachel</firstName>
+        <lastName>Peer Reviewer</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>34</defaultUserClassId>
+        <defaultUserClass>Peer Reviewer</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Randy</name>
+        <firstName>Randy</firstName>
+        <lastName>SME Reviewer</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>40</defaultUserClassId>
+        <defaultUserClass>SME Reviewer</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Ray</name>
+        <firstName>Ray</firstName>
+        <lastName>IP Reviewer</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>29</defaultUserClassId>
+        <defaultUserClass>IP Reviewer</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Talia</name>
+        <firstName>Talia</firstName>
+        <lastName>Tech Writer</lastName>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>43</defaultUserClassId>
+        <defaultUserClass>Tech Writer</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Theo</name>
+        <firstName>Theo</firstName>
+        <lastName>Tech Editor</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>42</defaultUserClassId>
+        <defaultUserClass>Tech Editor</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Translation Manager</name>
+        <firstName/>
+        <lastName/>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>44</defaultUserClassId>
+        <defaultUserClass>Translation Manager</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+    <userInfo>
+        <name>Wendy</name>
+        <firstName>Wendy</firstName>
+        <lastName>Web Publisher</lastName>
+        <phoneNumber/>
+        <emailAddress/>
+        <nativeTrustee>true</nativeTrustee>
+        <enabled>true</enabled>
+        <defaultUserClassId>45</defaultUserClassId>
+        <defaultUserClass>Web Publisher</defaultUserClass>
+        <deleted>false</deleted>
+    </userInfo>
+</userInfoList>
